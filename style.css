@@ -1,0 +1,11 @@
+.header {
+    padding-bottom: 50px;
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    max-width: 1000px;
+    margin: auto;
+}
+
