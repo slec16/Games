@@ -121,3 +121,21 @@
 #game div span {
   font-size: 50px;
 }
+
+//--table sculte--//
+
+#parent {
+	text-align: center;
+}
+#box {
+	display: inline-block;
+}
+
+#box td {
+	padding: 20px;
+	border: 1px solid black;
+	cursor: pointer;
+}
+.activate {
+	background: red;
+}
